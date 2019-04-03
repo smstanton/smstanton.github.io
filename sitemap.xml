@@ -3,29 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://noslackdev.com/posts/my-first-post/</loc>
-    <lastmod>2019-04-02T20:55:18-06:00</lastmod>
+    <loc>https://noslackdev.com/about/</loc>
+    <lastmod>2019-03-15T10:53:26-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://noslackdev.com/categories/</loc>
+    <loc>https://noslackdev.com/</loc>
+    <lastmod>2019-03-15T10:53:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/posts/cs50-week-0/</loc>
+    <lastmod>2019-04-01T06:47:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/posts/begin-cs50/</loc>
+    <lastmod>2019-03-24T21:55:16-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/meta/first-post/</loc>
+    <lastmod>2019-03-17T10:24:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://noslackdev.com/</loc>
-    <lastmod>2019-04-02T20:55:18-06:00</lastmod>
+    <loc>https://noslackdev.com/categories/cs50/</loc>
+    <lastmod>2019-04-01T06:47:19-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://noslackdev.com/posts/</loc>
-    <lastmod>2019-04-02T20:55:18-06:00</lastmod>
+    <loc>https://noslackdev.com/meta/</loc>
+    <lastmod>2019-03-17T10:24:02-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://noslackdev.com/tags/</loc>
+    <loc>https://noslackdev.com/categories/meta/</loc>
+    <lastmod>2019-03-17T10:24:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/posts/</loc>
+    <lastmod>2019-04-01T06:47:19-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noslackdev.com/tags/</loc>
     <priority>0</priority>
   </url>
   

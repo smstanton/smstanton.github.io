@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on NoSlackDev</title>
+    <link>https://noslackdev.com/meta/</link>
+    <description>Recent content in Meta on NoSlackDev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2019 Stephen Stanton</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 10:24:02 -0600</lastBuildDate>
+    
+	<atom:link href="https://noslackdev.com/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://noslackdev.com/meta/first-post/</link>
+      <pubDate>Sun, 17 Mar 2019 10:24:02 -0600</pubDate>
+      
+      <guid>https://noslackdev.com/meta/first-post/</guid>
+      <description>Hello Hello, I&amp;rsquo;m Stephen. Welcome to NoSlackDev.
+This first post is also represented in the About section.
+The idea behind this blog is still forming, but instead of trying to have a fully fleshed out idea before starting it, I thought it wise to just start&amp;hellip; and see where it goes.
+This is a blog about learning and improving in general, with a particular focus around software development. I seek to guide myself through a growing curriculum of classes, books, projects, and other activities to improve myself in many ways: as a technologist, a developer, a problem solver, a thinker, a builder, a consultant, and in a variety of other skills and interests that I may write about here.</description>
+    </item>
+    
+  </channel>
+</rss>

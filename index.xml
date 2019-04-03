@@ -1,23 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>No Slack Dev</title>
-    <link>http://noslackdev.com/</link>
-    <description>Recent content on No Slack Dev</description>
+    <title>About on NoSlackDev</title>
+    <link>https://noslackdev.com/</link>
+    <description>Recent content in About on NoSlackDev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 20:55:18 -0600</lastBuildDate>
+    <language>en</language>
+    <copyright>&amp;copy; Copyright 2019 Stephen Stanton</copyright>
+    <lastBuildDate>Fri, 15 Mar 2019 10:53:26 -0600</lastBuildDate>
     
-	<atom:link href="http://noslackdev.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noslackdev.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://noslackdev.com/posts/my-first-post/</link>
-      <pubDate>Tue, 02 Apr 2019 20:55:18 -0600</pubDate>
+      <title>CS50 Week 0</title>
+      <link>https://noslackdev.com/posts/cs50-week-0/</link>
+      <pubDate>Mon, 01 Apr 2019 06:47:19 -0600</pubDate>
       
-      <guid>http://noslackdev.com/posts/my-first-post/</guid>
-      <description>Smoketesting First post.</description>
+      <guid>https://noslackdev.com/posts/cs50-week-0/</guid>
+      <description>While on the road for work last week, I watched the Week 0 lecture and completed the problem set. This was probably the 3rd or 4th time I&amp;rsquo;ve watched this lecture, since I&amp;rsquo;ve started and not completed CS50 several times. CS50 re-records the lecture each year for the live class at Harvard, and online students like myself get the benefit of updated materials. The content is pretty consistent from year to year, but the execution continues to improve (impressive, considering how good it is to begin with).</description>
+    </item>
+    
+    <item>
+      <title>Begin CS50</title>
+      <link>https://noslackdev.com/posts/begin-cs50/</link>
+      <pubDate>Sun, 24 Mar 2019 21:55:16 -0600</pubDate>
+      
+      <guid>https://noslackdev.com/posts/begin-cs50/</guid>
+      <description>The journey begins with CS50.
+I&amp;rsquo;ve started this course a few times over the years, and only made it through the first two or three problem sets before my attention moved elsewhere. The experience I have had with it so far has been very positive. The content is very well produced and is refreshed often if I remember correctly. The instructor, David Malan, is very engaging and a pleasure to learn from.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://noslackdev.com/meta/first-post/</link>
+      <pubDate>Sun, 17 Mar 2019 10:24:02 -0600</pubDate>
+      
+      <guid>https://noslackdev.com/meta/first-post/</guid>
+      <description>Hello Hello, I&amp;rsquo;m Stephen. Welcome to NoSlackDev.
+This first post is also represented in the About section.
+The idea behind this blog is still forming, but instead of trying to have a fully fleshed out idea before starting it, I thought it wise to just start&amp;hellip; and see where it goes.
+This is a blog about learning and improving in general, with a particular focus around software development. I seek to guide myself through a growing curriculum of classes, books, projects, and other activities to improve myself in many ways: as a technologist, a developer, a problem solver, a thinker, a builder, a consultant, and in a variety of other skills and interests that I may write about here.</description>
     </item>
     
   </channel>
