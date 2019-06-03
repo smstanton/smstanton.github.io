@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; Copyright 2019 Stephen Stanton</copyright>
-    <lastBuildDate>Sun, 17 Mar 2019 10:24:02 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 05:05:30 -0600</lastBuildDate>
     
 	<atom:link href="https://noslackdev.com/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UpdatedApproach</title>
+      <link>https://noslackdev.com/posts/updatedapproach/</link>
+      <pubDate>Mon, 03 Jun 2019 05:05:30 -0600</pubDate>
+      
+      <guid>https://noslackdev.com/posts/updatedapproach/</guid>
+      <description>Hot off the heels of a much needed vacation, and also of a big gap in my studies, its time to re-commit and update my approach to this endeavor. I&amp;rsquo;m going to focus on completing one chapter/lecture/problem set or other &amp;ldquo;unit&amp;rdquo; of work per day and to get either a twitter post or a blog post done each day as well. Posts to twitter will be &amp;ldquo;accountability posts&amp;rdquo;, which are done as a way of holding myself accountable by feeling some pressure to check-in daily.</description>
+    </item>
     
     <item>
       <title>First Post</title>
